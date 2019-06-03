@@ -1,0 +1,17 @@
+{
+  "name": "ws-demo",
+  "version": "1.0.0",
+  "description": "sample ws project",
+  "main": "index.js",
+  "scripts": {
+    "test": "dd",
+    "start": "node app.js"
+  },
+  "author": "wmh1",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0",
+    "ws": "^7.0.0"
+  }
+}
